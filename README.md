@@ -1,9 +1,9 @@
 # EDM-Portfolio
-This is my repository
+The EDM-Portfolio project involves using data cleaning and preparation techniques in Excel to organize and refine data, making it ready for analysis and decision-making.
 ### About Me 
 Hi my name is Jerald Adrian G. Dela Rosa
 ### Educational:
-*CollegeL: City College of Angeles (BSIS)
+*College: City College of Angeles (BSIS)
 
 *High School: Sapang Bato National High Scgool
 
