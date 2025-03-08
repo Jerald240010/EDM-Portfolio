@@ -9,4 +9,4 @@ High School: Sapang Bato National High Scgool
 
 Elementary: Sapang Bato Elementary School
 ## My Projects
-Midterm Lab Task :[Data Cleaning and Preparation using Excel](Midterm%20Lab%20Task%201/task1.md)
+Midterm Lab Task 1 :[Data Cleaning and Preparation using Excel](Midterm%20Lab%20Task%201/task1.md)
