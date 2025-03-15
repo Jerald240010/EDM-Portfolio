@@ -29,4 +29,9 @@
 
 8. Ensure that the slicers allow for interactivity within your dashboard.
 
-## Screenshot/Documentation
+## Screenshots/Documentations
+
+![JeraldSS](https://github.com/user-attachments/assets/92969a44-393e-4f27-bb69-9e0bb3387d11)
+![jeraldss2](https://github.com/user-attachments/assets/7d9e1a9d-a926-46cc-8c14-9a5371213f1f)
+![jeraldss3](https://github.com/user-attachments/assets/048b3145-c7e7-41e1-83da-d5b225008123)
+![jerald4](https://github.com/user-attachments/assets/5fa95ea8-519c-4fe8-ab6b-090df68bc987)
