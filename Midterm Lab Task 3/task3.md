@@ -28,3 +28,5 @@
 7. The provided dashboard template is incomplete; you need to finish it and include all the necessary visuals/reports outlined in step 2.
 
 8. Ensure that the slicers allow for interactivity within your dashboard.
+
+## Screenshot/Documentation
