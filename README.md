@@ -12,3 +12,5 @@ Elementary: Sapang Bato Elementary School
 Midterm Lab Task 1 :[Data Cleaning and Preparation using Excel](https://github.com/Jerald240010/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%201/task1.md)
 
 Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://github.com/Jerald240010/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%202/task2.md)
+
+Midterm Lab Task 3: [Data](https://jerald240010.github.io/Midterm-Lab-Task-3/)
