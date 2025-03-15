@@ -1,7 +1,7 @@
 # EDM-Portfolio
 The EDM-Portfolio project involves using data cleaning and preparation techniques in Excel to organize and refine data, making it ready for analysis and decision-making.
 ### About Me 
-Hi my name is Jerald Adrian G. Dela Rosa
+Hi my name is Jerald Adrian G. Dela Rosa.
 ### Educational:
 College: City College of Angeles (BSIS)
 
