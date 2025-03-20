@@ -1,4 +1,3 @@
-![Image](https://github.com/user-attachments/assets/cc2e82be-a30f-4096-aad0-2b1345ad6707)
 
 # EDM-Portfolio
 The EDM-Portfolio project involves using data cleaning and preparation techniques in Excel to organize and refine data, making it ready for analysis and decision-making.
