@@ -20,3 +20,5 @@ Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://jerald240010.gi
 Final Lab Task 1:   [MySQL Basics](https://jerald240010.github.io/Final-Lab-Task-1/)
 
 Final Lab Task 2:   [Transforming ER Model to Relational](https://jerald240010.github.io/Final-Lab-Task-2/)
+
+Final Lab Task 3:  [Table Manipulation](https://jerald240010.github.io/Final-Task-3-/)
