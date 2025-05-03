@@ -22,3 +22,6 @@ Final Lab Task 1:   [MySQL Basics](https://jerald240010.github.io/Final-Lab-Task
 Final Lab Task 2:   [Transforming ER Model to Relational](https://jerald240010.github.io/Final-Lab-Task-2/)
 
 Final Lab Task 3:  [Table Manipulation](https://jerald240010.github.io/Final-Task-3-/)
+
+Final Lab Task 3.1 [ MySQL Clause](https://github.com/Jerald240010/EDM-Portfolio/blob/main/Final%20Lab%20Task%203.1/.md)
+
